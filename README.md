@@ -57,7 +57,7 @@ Ola needs to understand key patterns in vehicle performance, revenue trends, cus
 ## Screenshots / Demos
 ![Overall Overview Dashboard](screenshot1.png)  
 ![Vehicle Type Analysis](screenshot2.png)  
-![Revenue Insights](screenshot3.png)  
+![Revenue Insights]([screenshot3.png](https://github.com/bharadwajtannu/OlaRide-Analytics/blob/main/Cancellation_dashboard.png))  
 ![Canellation Analysis](screenshot2.png)  
 ![Ratings ](screenshot3.png)  
 
