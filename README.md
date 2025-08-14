@@ -81,6 +81,6 @@ Ola needs to understand key patterns in vehicle performance, revenue trends, cus
 ---
 
 ##  Project Files
-- `https://github.com/bharadwajtannu/OlaRide-Analytics/blob/main/Ola_Dashboard.pbix` – Power BI dashboard  
+- `OLA_Dashboard` – Power BI dashboard  
 - `Ola_Queries.sql` – SQL queries used for analysis  
-- `OLA_Dataset.csv` – Dummy dataset  
+- `Bookings.csv` – Dummy dataset  
